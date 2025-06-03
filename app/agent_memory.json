@@ -1,0 +1,98 @@
+{
+  "strategies": [],
+  "successful_queries": {},
+  "failed_strategies": [
+    {
+      "query": "Find me the best deals on premium perfumes under \u20b9200",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:41:58.162503"
+    },
+    {
+      "query": "Find me the best deals on premium perfumes under \u20b9200",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:42:42.332341"
+    },
+    {
+      "query": "Find me the best deals on premium perfumes under \u20b9200",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:44:03.249699"
+    },
+    {
+      "query": "premium",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:53:01.770819"
+    },
+    {
+      "query": "premium",
+      "site": "amazon.in",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:53:05.087994"
+    },
+    {
+      "query": "perfumes",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:53:08.608609"
+    },
+    {
+      "query": "perfumes",
+      "site": "amazon.in",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:53:11.399662"
+    },
+    {
+      "query": "\u20b9200",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:53:14.118299"
+    },
+    {
+      "query": "\u20b9200",
+      "site": "amazon.in",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:53:18.041370"
+    },
+    {
+      "query": "premium",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:57:30.125059"
+    },
+    {
+      "query": "premium",
+      "site": "amazon.in",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:57:33.378713"
+    },
+    {
+      "query": "perfumes",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:57:36.728730"
+    },
+    {
+      "query": "perfumes",
+      "site": "amazon.in",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:57:40.080668"
+    },
+    {
+      "query": "\u20b9200",
+      "site": "flipkart.com",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:57:45.277331"
+    },
+    {
+      "query": "\u20b9200",
+      "site": "amazon.in",
+      "reason": "no_deals_found",
+      "timestamp": "2025-06-04T00:57:49.297647"
+    }
+  ],
+  "site_performance": {},
+  "last_updated": "2025-06-04T00:57:49.299007"
+}
